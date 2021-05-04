@@ -1,4 +1,4 @@
-A simple calc.
+A simple calculator.
 
 Written with basic knowledge of python.
 
